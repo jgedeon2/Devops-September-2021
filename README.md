@@ -3,7 +3,7 @@
 toto je co...
 
 *super
-*parada
-*bomba
+**parada
+**bomba
 
 Uvidime na konci
