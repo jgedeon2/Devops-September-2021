@@ -2,8 +2,8 @@
 
 toto je co...
 
-super
-parada
-bomba
+*super
+*parada
+*bomba
 
 Uvidime na konci
